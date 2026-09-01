@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "servidor_url": "https://labmonitor.pythonanywhere.com/login",
+  "descarga_windows": "https://labmonitor.pythonanywhere.com/descargar/archivo/escritorio_windows",
+  "descarga_linux": "https://labmonitor.pythonanywhere.com/descargar/archivo/escritorio_linux"
+}
